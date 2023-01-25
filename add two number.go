@@ -1,3 +1,4 @@
+//deif
 package main
 
 import "fmt"
